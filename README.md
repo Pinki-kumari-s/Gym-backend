@@ -22,7 +22,7 @@ Follow the steps below to run the backend server locally:
 
 ```bash
 git clone https://github.com/Pinki-Kumari-s/Gym-backend.git
-cd gym-backend
+cd Gym-backend
 ```
 
 2. **Install dependencies**
